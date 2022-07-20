@@ -27,4 +27,9 @@
     <bool name="config_dozePulseProximity">true</bool>
     <!-- Allow automatic adjusting of the screen brightness while dozing in low power state. -->
     <bool name="config_allowAutoBrightnessWhileDozing">true</bool>
+
+    <!-- Does the device support battery LED? -->
+    <bool name="config_intrusiveBatteryLed">true</bool>
+    <!-- Does the device multi color battery LED? -->
+    <bool name="config_multiColorBatteryLed">true</bool>
 </resources>
